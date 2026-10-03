@@ -1,0 +1,15 @@
+body{
+    font-family: "press start 2p",sans-serif,"consolas";
+    text-align: center;
+    background-color: blanchedalmond;
+}
+input[type="submit"]{
+    width: 20%;
+    padding: 12px 16px;
+    margin: 8px 0;
+    font-size: 16px;
+
+    border: 1px solid black;
+    border-radius: 6px;
+    background-color: #a0d618;
+}
